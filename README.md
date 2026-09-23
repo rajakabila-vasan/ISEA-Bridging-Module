@@ -4,9 +4,9 @@ Student Name: Raja Kabila Vasan
 
 Student ID: CT0388665
  
-## Lab 1 - Session 1a and 1b
+Lab 1 - Session 1a and 1b
  
-### Topics Covered
+ Topics Covered
  
 - GitHub
 - Ubuntu Linux
@@ -14,16 +14,13 @@ Student ID: CT0388665
 - Linux Commands
 - Apache Web Server
  
+Commands Learned
+pwd
+ls
+cd
+mkdir
+touch
 
-### Commands Learned
- 
-- pwd
-- ls
-21
-- cd
-- mkdir
-- touch
- 
-### Reflection
+Reflection
  
 Today I created my GitHub repository and started learning Linux fundamentals. I learned about Ubuntu, VirtualBox and basic Linux commands.
