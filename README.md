@@ -15,11 +15,11 @@ Lab 1 - Session 1a and 1b
 - Apache Web Server
  
 Commands Learned
-pwd
-ls
-cd
-mkdir
-touch
+-pwd
+-ls
+-cd
+-mkdir
+-touch
 
 Reflection
  
